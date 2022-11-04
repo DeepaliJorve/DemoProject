@@ -1,5 +1,6 @@
 class B {
 	static void main(String args[]){
-		System.out.println("B.java initial file");
+		System.out.println("B.java First change");
+
 	}
 }
